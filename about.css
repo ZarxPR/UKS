@@ -1,0 +1,45 @@
+.fw-bold {
+    text-align: center;
+    font-size: 48px;
+    margin-top: 30px;
+}
+.uks{
+    width: 50px;
+    margin-right: 10px;
+}
+.navbar{
+    background-color: #80AF81;
+}
+.navbar-brand{
+    text-align: center;
+    font-size: medium;
+}
+.navbar-nav{
+    justify-content: center;
+    color: #ffff;
+}
+
+.footer{
+    margin-top: 50px;
+    font-family:'Poppins' sans-serif;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    font-size: 14px;
+    background-color: #508D4E;
+    align-items: start;
+    min-height: 10vh; 
+}
+.footer-right{
+    margin-top: -140px;
+    margin-left: 400px;
+}
+.fottt a{
+    /* display: flex; */
+    margin-left: 40px;
+    margin-bottom: 50rem;
+    align-items: center;
+    grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+    gap: 3.15rem;
+    color: black;
+    padding-top: 20px;
+}
