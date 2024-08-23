@@ -1,0 +1,25 @@
+.fw-bold {
+    text-align: center;
+    font-size: 48px;
+    margin-top: 30px;
+}
+.foto{
+   padding-left: 20rem;
+    width: 150rem;
+    
+}
+.uks{
+    width: 50px;
+    margin-right: 10px;
+}
+.navbar{
+    background-color: #80AF81;
+}
+.navbar-brand{
+    text-align: center;
+    font-size: medium;
+}
+.navbar-nav{
+    justify-content: center;
+    color: #ffff;
+}
